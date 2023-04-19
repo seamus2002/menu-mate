@@ -34,8 +34,7 @@ const Veggie = () => {
 
                 <Splide
                     options={{
-                        type: "loop",
-                        perPage: 4,
+                        perPage: 3,
                         arrows: true,
                         pagination: false,
                         drag: "free",
